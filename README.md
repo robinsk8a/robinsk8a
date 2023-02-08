@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @robinsk8a or Robinson Ochoa
-- 👀 I’m interested in 3D, simulations, data science, data analysis, robotics, learning and everything related with creating and growing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on... well, I don't know, I'm just a noob on all this programming world but is something that I really start to loving it so, i guess I'm open to challenges haha
-- 📫 How to reach me? I think you car write to my email leronin8a@gmail.com or maybe on my instagram @leronin8a
+- 👀 I’m interested in AI, machine learning, simulations, data science, data analysis, robotics,  and so much more.
+- 🌱 At this moment, I'm highly interested in artificial intelligence and it's related topics
+- 💞️ I usually like to solving problems, finding new solutions and improve processes
+- 📫 How to reach me? You can find me on LinkedIn as robinson8a (Yup, same as here) and on my Hugging Face account (working here much more lately) as robinsk8a
 
 <!---
 robinsk8a/robinsk8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
